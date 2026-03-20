@@ -4,11 +4,6 @@ Uma roleta interativa de campeões de **League of Legends**, feita com HTML, CSS
 
 ---
 
-## 📸 Preview
-
-![Preview do projeto](img/AhriSquare.png)
-
----
 
 ## 🚀 Funcionalidades
 
